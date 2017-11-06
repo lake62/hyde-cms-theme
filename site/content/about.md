@@ -5,4 +5,11 @@ title = "about"
 
 +++
 
-## This is where our page Markdown content lives.
+## About me.
+
+I've a certain writing style.
+You can see it, because of the choice of words.
+I can write about myself.
+Or I can write about my work.
+A trade-off has to be made.
+How much privacy you're willing to pay?
